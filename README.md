@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0066-plus-one) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nikky27hub/LeetCodeSolution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
