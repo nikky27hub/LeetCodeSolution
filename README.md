@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0067-add-binary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikky27hub/LeetCodeSolution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0067-add-binary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String Matching
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikky27hub/LeetCodeSolution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikky27hub/LeetCodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
