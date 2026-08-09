@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1757-recyclable-and-low-fat-products) |
 ## Array
 |  |
