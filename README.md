@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0067-add-binary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0628-maximum-product-of-three-numbers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikky27hub/LeetCodeSolution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikky27hub/LeetCodeSolution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0067-add-binary) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1768-merge-strings-alternately) |
 ## String Matching
@@ -241,4 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0002-add-two-numbers) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
