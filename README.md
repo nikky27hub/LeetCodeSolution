@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0066-plus-one) |
+| [0238-product-of-array-except-self](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1260-shift-2d-grid) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0238-product-of-array-except-self) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikky27hub/LeetCodeSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
