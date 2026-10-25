@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikky27hub/LeetCodeSolution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikky27hub/LeetCodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0443-string-compression) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikky27hub/LeetCodeSolution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1331-rank-transform-of-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikky27hub/LeetCodeSolution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikky27hub/LeetCodeSolution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nikky27hub/LeetCodeSolution/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/nikky27hub/LeetCodeSolution/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/nikky27hub/LeetCodeSolution/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikky27hub/LeetCodeSolution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
