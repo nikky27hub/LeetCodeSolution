@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikky27hub/LeetCodeSolution/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0392-is-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1301-number-of-paths-with-max-score) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikky27hub/LeetCodeSolution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Matrix
 |  |
@@ -301,4 +303,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
