@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikky27hub/LeetCodeSolution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikky27hub/LeetCodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikky27hub/LeetCodeSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
