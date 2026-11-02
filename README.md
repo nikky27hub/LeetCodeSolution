@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0067-add-binary) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0392-is-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1301-number-of-paths-with-max-score) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -310,4 +312,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
