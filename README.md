@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1260-shift-2d-grid) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0067-add-binary) |
+| [0735-asteroid-collision](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1260-shift-2d-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/nikky27hub/LeetCodeSolution/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/nikky27hub/LeetCodeSolution/tree/master/2390-removing-stars-from-a-string) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/nikky27hub/LeetCodeSolution/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
