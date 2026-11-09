@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/nikky27hub/LeetCodeSolution/tree/master/2390-removing-stars-from-a-string) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0394-decode-string) |
 ## Euclidean Algorithm
 |  |
 | ------- |
