@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0002-add-two-numbers) |
+| [0328-odd-even-linked-list](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nikky27hub/LeetCodeSolution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
