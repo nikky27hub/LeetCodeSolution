@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikky27hub/LeetCodeSolution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0392-is-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1301-number-of-paths-with-max-score) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikky27hub/LeetCodeSolution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Matrix
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -384,5 +387,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/nikky27hub/LeetCodeSolution/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1448-count-good-nodes-in-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nikky27hub/LeetCodeSolution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
